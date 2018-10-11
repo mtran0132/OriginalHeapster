@@ -1,2 +1,5 @@
 ﻿  OriginalHeapster.cpp
-  OriginalHeapster.vcxproj -> c:\users\marco tran\source\repos\OriginalHeapster\Debug\OriginalHeapster.exe
+d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(52): warning C4101: 'previousBlock': unreferenced local variable
+d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(51): warning C4101: 'newBlock': unreferenced local variable
+  OriginalHeapster.vcxproj -> D:\Users\Mtran0132\Documents\CSULB\Fall 2018\CECS424\Debug\OriginalHeapster.exe
