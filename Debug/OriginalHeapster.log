@@ -1,3 +1,6 @@
 ﻿  OriginalHeapster.cpp
 d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(184): warning C4476: 'printf' : unknown type field character '\t' in format specifier
+d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(184): warning C4474: 'printf' : too many arguments passed for format string
+  d:\users\mtran0132\documents\csulb\fall 2018\cecs424\originalheapster.cpp(184): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
   OriginalHeapster.vcxproj -> D:\Users\Mtran0132\Documents\CSULB\Fall 2018\CECS424\Debug\OriginalHeapster.exe
